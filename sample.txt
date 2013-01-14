@@ -1,0 +1,8 @@
+https://github.com/sugisunsun/test.git
+
+git@github.com:sugisunsun/test.git
+
+http://www.karakaram.com/git-install
+
+
+
